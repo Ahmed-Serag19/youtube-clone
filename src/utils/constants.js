@@ -16,9 +16,11 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon /> },
+  { name: 'Thebausffs', icon: <SportsEsportsIcon /> },
   { name: 'Coding', icon: <CodeIcon /> },
   { name: 'ReactJS', icon: <CodeIcon /> },
   { name: 'NextJS', icon: <CodeIcon /> },
+  { name: 'Synapse', icon: <SportsEsportsIcon /> },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon /> },
   { name: 'Podcast', icon: <GraphicEqIcon /> },
@@ -33,12 +35,11 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon /> },
 ];
 
-export const demoThumbnailUrl =
-  'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle =
-  'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+export const demoThumbnailUrl = 'https://i.imgur.com/2382o90.jpg';
+export const demoChannelUrl = '/@Thebausffs';
+export const demoVideoUrl =
+  '/video/watch?v=UccRxmsMWZM&ab_channel=Thebausffs';
+export const demoChannelTitle = 'Thebausffs';
+export const demoVideoTitle = "KOREANS DIDN'T KNOW ABOUT IT!";
 export const demoProfilePicture =
   'http://dergipark.org.tr/assets/app/images/buddy_sample.png';
