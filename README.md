@@ -9,8 +9,6 @@ This YouTube clone is a web application built using React, React Router, Materia
 - **Video Details**: Access video details, including title, description, and view count.
 - **Search Videos**: Find specific videos using the search bar.
 - **Video Recommendations**: Get video recommendations based on your viewing history.
-- **User Comments**: Read and post comments on videos.
-- **User Authentication**: Sign in with your Google account to access personalized features.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
 
 ## Technologies Used
